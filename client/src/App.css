@@ -1,0 +1,12 @@
+html {
+  font-family: 'Raleway', sans-serif;
+}
+
+.App {
+  min-height: 100vh;
+  text-align: center;
+  background-color: #265349;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
